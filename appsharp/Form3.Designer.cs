@@ -53,11 +53,10 @@
             this.Load += new System.EventHandler(this.Form3_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
-        #endregion
-
         private System.Windows.Forms.Label label1;
+
+        #endregion
     }
 }
