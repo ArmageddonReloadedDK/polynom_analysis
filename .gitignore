@@ -1,4 +1,5 @@
 # Default ignored files
 /workspace.xml
 /.idea/*
+/.vs/*
 /.ipynb_checkpoints/*
