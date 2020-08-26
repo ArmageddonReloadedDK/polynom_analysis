@@ -1,0 +1,10 @@
+D:\visual studio files\seesharp1\appsharp\bin\x64\Release\appsharp.exe.config
+D:\visual studio files\seesharp1\appsharp\bin\x64\Release\appsharp.exe
+D:\visual studio files\seesharp1\appsharp\bin\x64\Release\appsharp.pdb
+D:\visual studio files\seesharp1\appsharp\obj\x64\Release\appsharp.csprojAssemblyReference.cache
+D:\visual studio files\seesharp1\appsharp\obj\x64\Release\appsharp.Form1.resources
+D:\visual studio files\seesharp1\appsharp\obj\x64\Release\appsharp.Properties.Resources.resources
+D:\visual studio files\seesharp1\appsharp\obj\x64\Release\appsharp.csproj.GenerateResource.cache
+D:\visual studio files\seesharp1\appsharp\obj\x64\Release\appsharp.csproj.CoreCompileInputs.cache
+D:\visual studio files\seesharp1\appsharp\obj\x64\Release\appsharp.exe
+D:\visual studio files\seesharp1\appsharp\obj\x64\Release\appsharp.pdb

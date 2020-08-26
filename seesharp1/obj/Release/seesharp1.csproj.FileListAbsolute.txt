@@ -1,0 +1,9 @@
+D:\visual studio files\seesharp1\seesharp1\bin\Release\seesharp1.exe.config
+D:\visual studio files\seesharp1\seesharp1\bin\Release\seesharp1.exe
+D:\visual studio files\seesharp1\seesharp1\bin\Release\seesharp1.pdb
+D:\visual studio files\seesharp1\seesharp1\obj\Release\seesharp1.csprojAssemblyReference.cache
+D:\visual studio files\seesharp1\seesharp1\obj\Release\seesharp1.csproj.CoreCompileInputs.cache
+D:\visual studio files\seesharp1\seesharp1\obj\Release\seesharp1.exe
+D:\visual studio files\seesharp1\seesharp1\obj\Release\seesharp1.pdb
+D:\visual studio files\seesharp1\seesharp1\obj\Release\seesharp1.Form1.resources
+D:\visual studio files\seesharp1\seesharp1\obj\Release\seesharp1.csproj.GenerateResource.cache

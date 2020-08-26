@@ -1,0 +1,56 @@
+D:\visual studio files\seesharp1\appsharp\bin\Debug\appsharp.exe.config
+D:\visual studio files\seesharp1\appsharp\bin\Debug\appsharp.exe
+D:\visual studio files\seesharp1\appsharp\bin\Debug\appsharp.pdb
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.csprojAssemblyReference.cache
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Form1.resources
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Properties.Resources.resources
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.csproj.GenerateResource.cache
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.csproj.CoreCompileInputs.cache
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.exe
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.pdb
+G:\seesharp1\appsharp\bin\Debug\appsharp.exe.config
+G:\seesharp1\appsharp\bin\Debug\appsharp.exe
+G:\seesharp1\appsharp\bin\Debug\appsharp.pdb
+G:\seesharp1\appsharp\obj\Debug\appsharp.csprojAssemblyReference.cache
+G:\seesharp1\appsharp\obj\Debug\appsharp.Form1.resources
+G:\seesharp1\appsharp\obj\Debug\appsharp.Properties.Resources.resources
+G:\seesharp1\appsharp\obj\Debug\appsharp.csproj.GenerateResource.cache
+G:\seesharp1\appsharp\obj\Debug\appsharp.csproj.CoreCompileInputs.cache
+G:\seesharp1\appsharp\obj\Debug\appsharp.exe
+G:\seesharp1\appsharp\obj\Debug\appsharp.pdb
+D:\visual studio projects\seesharp1\appsharp\bin\Debug\appsharp.exe.config
+D:\visual studio projects\seesharp1\appsharp\bin\Debug\appsharp.exe
+D:\visual studio projects\seesharp1\appsharp\bin\Debug\appsharp.pdb
+D:\visual studio projects\seesharp1\appsharp\obj\Debug\appsharp.csprojAssemblyReference.cache
+D:\visual studio projects\seesharp1\appsharp\obj\Debug\appsharp.Form1.resources
+D:\visual studio projects\seesharp1\appsharp\obj\Debug\appsharp.Properties.Resources.resources
+D:\visual studio projects\seesharp1\appsharp\obj\Debug\appsharp.csproj.GenerateResource.cache
+D:\visual studio projects\seesharp1\appsharp\obj\Debug\appsharp.csproj.CoreCompileInputs.cache
+D:\visual studio projects\seesharp1\appsharp\obj\Debug\appsharp.exe
+D:\visual studio projects\seesharp1\appsharp\obj\Debug\appsharp.pdb
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Form2.resources
+D:\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Form3.resources
+D:\PROJECTS\visual studio files\seesharp1\appsharp\bin\Debug\appsharp.exe.config
+D:\PROJECTS\visual studio files\seesharp1\appsharp\bin\Debug\appsharp.exe
+D:\PROJECTS\visual studio files\seesharp1\appsharp\bin\Debug\appsharp.pdb
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.csprojAssemblyReference.cache
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Form1.resources
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Form2.resources
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Form3.resources
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.Properties.Resources.resources
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.csproj.GenerateResource.cache
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.csproj.CoreCompileInputs.cache
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.exe
+D:\PROJECTS\visual studio files\seesharp1\appsharp\obj\Debug\appsharp.pdb
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\bin\Debug\appsharp.exe.config
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\bin\Debug\appsharp.exe
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\bin\Debug\appsharp.pdb
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.csprojAssemblyReference.cache
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.Form1.resources
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.Form2.resources
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.Form3.resources
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.Properties.Resources.resources
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.csproj.GenerateResource.cache
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.exe
+D:\PROJECTS\C_C++_C#\seesharp1\appsharp\obj\Debug\appsharp.pdb
